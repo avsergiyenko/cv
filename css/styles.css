@@ -1,0 +1,170 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 3.75rem;
+  font-family: 'Zilla Slab', serif;
+  line-height: 2;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Lato', sans-serif;
+  font-size: 1.5rem;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Lato', sans-serif;
+}
+
+.top-container {
+  background-color: #e8e8e8;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-cloud {
+  left: 200px;
+  position: absolute;
+  top: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.dev {
+  text-decoration: underline;
+}
+
+a {
+  color: #11999E;
+}
+
+.webdeveloper {
+  font-weight: normal;
+}
+
+.skill-row {
+  line-height: 2;
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
+}
+
+.html-image {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.css-image {
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.profile-photo {
+  padding-top: 70px;
+  padding-bottom: 50px;
+}
+
+.intro {
+  margin: auto;
+  color: #40514E;
+  width: 30%
+}
+
+.profile {
+  line-height: 2;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 7px;
+  border-color: #5b5b5b;
+  margin: 100px auto;
+  width: 5%
+}
+
+.h3-bottom {
+  padding: 30px 0 30px 0;
+}
+
+.p-bottom {
+  margin: auto;
+  width: 30%;
+  line-height: 2;
+  padding-bottom: 30px;
+}
+
+.btn {
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  height: 10px;
+  line-height: 10px;
+  color: #FFFFFF;
+  font-family: Open Sans;
+  width: 150px;
+  font-size: 20px;
+  font-weight: 400;
+  padding: 20px;
+  background-color: #66BFBF;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.btn:hover {
+  border: outset #99C624 0;
+  background: #6F8FB3;
+  background-image: -webkit-linear-gradient(top, #6F8FB3, #373499);
+  background-image: -moz-linear-gradient(top, #6F8FB3, #373499);
+  background-image: -ms-linear-gradient(top, #6F8FB3, #373499);
+  background-image: -o-linear-gradient(top, #6F8FB3, #373499);
+  background-image: -webkit-gradient(to bottom, #6F8FB3, #373499);
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 50px 5px;
+}
+
+.name {
+  padding-top: 40px;
+  color: #EAF6F6;
+}
+
+.footer-link1 {
+  margin-left: 70px;
+  color: #11999E;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.footer-link2 {
+  margin: 0 30px 0;
+  color: #11999E;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.footer-link3 {
+  color: #11999E;
+  text-decoration: none;
+  font-weight: 600;
+}
